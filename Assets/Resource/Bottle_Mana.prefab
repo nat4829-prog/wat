@@ -9808,7 +9808,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SpeedPotion
   speedMultiplier: 2.5
   duration: 8
-  pickupSound: {fileID: 0}
+  pickupSound: {fileID: 8300000, guid: 11f78d2f5b3d0bf4fa5a6ad13b81962c, type: 3}
   pickupEffect: {fileID: 0}
 --- !u!1 &6236853135452273358
 GameObject:

@@ -58,7 +58,7 @@ Transform:
   m_GameObject: {fileID: 4873460274976427063}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: 0.49642566, z: -0, w: 0.8680793}
-  m_LocalPosition: {x: 156.1, y: -0.26, z: 90.9}
+  m_LocalPosition: {x: 156.07, y: -0.26, z: 91.18}
   m_LocalScale: {x: 1.1229298, y: 1.1229298, z: 1.1229298}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -80,7 +80,7 @@ MonoBehaviour:
   points: 10
   pickupRadius: 1.3
   destroyOnCollect: 1
-  pickupSound: {fileID: 0}
+  pickupSound: {fileID: 8300000, guid: 997fa2fdb4421ab4c966fd949ebc3000, type: 3}
   soundVolume: 0.8
   pickupEffect: {fileID: 0}
 --- !u!1 &6371611351034226827

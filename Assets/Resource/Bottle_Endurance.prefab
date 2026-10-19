@@ -9839,5 +9839,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::HealthPotion
   healAmount: 30
-  pickupSound: {fileID: 0}
+  pickupSound: {fileID: 8300000, guid: 88a91fa98df7d5d498da656845562d5d, type: 3}
   pickupEffect: {fileID: 0}
